@@ -4,18 +4,21 @@
 
 ## 技术交流群(群号:155353383) 
 
-欢迎加入技术交流群，一起探讨技术问题。<br />
-![](https://github.com/dgynfi/HUD_Demo/raw/master/images/qq155353383.jpg)
+- 欢迎加入技术交流群，一起探讨技术问题。
+
+<div align=left>
+&emsp; <img src="https://github.com/dgynfi/HUD_Demo/raw/master/images/qq155353383.jpg" width="20%" />
+</div>
 
 ## 效果图
 
 <div align=left>
-<img src="https://github.com/dgynfi/HUD_Demo/raw/master/images/HudPreview.gif" width="40%" />
+&emsp; <img src="https://github.com/dgynfi/HUD_Demo/raw/master/images/HudPreview.gif" width="30%" />
 </div>
 
 ## HUD_Demo
 
-MBProgressHUD的使用演示，自定义DYFIndefiniteAnimatedView，DYFDesignSpinner 和 DYFMaterialDesignSpinner等指示器替换 MBProgressHUD 默认的指示器。
+&emsp; MBProgressHUD 的使用演示，自定义 DYFIndefiniteAnimatedView，DYFDesignSpinner 和 DYFMaterialDesignSpinner 等指示器替换 MBProgressHUD 默认的指示器。
 
 ## 使用说明
 
