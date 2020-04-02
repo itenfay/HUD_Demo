@@ -1,16 +1,14 @@
-[如果你觉得能帮助到你，请给一颗小星星。谢谢！(If you think it can help you, please give it a star. Thanks!)](https://github.com/dgynfi/HUD_Demo)
+[如果此项目能帮助到你，就请你给一颗星。谢谢！(If this project can help you, please give it a star. Thanks!)](https://github.com/dgynfi/HUD_Demo)
 
 [![License MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](LICENSE)&nbsp;
 
-## 技术交流群(群号:155353383) 
-
-- 欢迎加入技术交流群，一起探讨技术问题。
+## Group (ID:614799921)
 
 <div align=left>
-&emsp; <img src="https://github.com/dgynfi/HUD_Demo/raw/master/images/qq155353383.jpg" width="20%" />
+&emsp; <img src="https://github.com/dgynfi/HUD_Demo/raw/master/images/g614799921.jpg" width="30%" />
 </div>
 
-## 效果图
+## Preview
 
 <div align=left>
 &emsp; <img src="https://github.com/dgynfi/HUD_Demo/raw/master/images/HudPreview.gif" width="30%" />
@@ -18,9 +16,9 @@
 
 ## HUD_Demo
 
-&emsp; MBProgressHUD 的使用演示，自定义 DYFIndefiniteAnimatedView，DYFDesignSpinner 和 DYFMaterialDesignSpinner 等指示器替换 MBProgressHUD 默认的指示器。
+MBProgressHUD 的使用演示，自定义 DYFIndefiniteAnimatedView，DYFDesignSpinner 和 DYFMaterialDesignSpinner 等指示器替换 MBProgressHUD 默认的指示器。
 
-## 使用说明
+## Usage
 
 - 导入头文件 (Import Headers)
 
@@ -102,6 +100,6 @@ spinner.lineWidth = 2.f;
 [self configureHUDAddedTo:spinner onlyText:nil];
 ```
 
-## Sample Codes
+## Code Sample
 
-- [Sample Codes Gateway](https://github.com/dgynfi/HUD_Demo/blob/master/HUD/Basic%20Files/RootViewController.m)
+- [Code Sample Portal](https://github.com/dgynfi/HUD_Demo/blob/master/HUD/Basic%20Files/RootViewController.m)
