@@ -1,17 +1,17 @@
-[如果此项目能帮助到你，就请你给一颗星。谢谢！(If this project can help you, please give it a star. Thanks!)](https://github.com/dgynfi/HUD_Demo)
+[如果此项目能帮助到你，就请你给一颗星。谢谢！(If this project can help you, please give it a star. Thanks!)](https://github.com/chenxing640/HUD_Demo)
 
 [![License MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](LICENSE)&nbsp;
 
 ## Group (ID:614799921)
 
 <div align=left>
-&emsp; <img src="https://github.com/dgynfi/HUD_Demo/raw/master/images/g614799921.jpg" width="30%" />
+&emsp; <img src="https://github.com/chenxing640/HUD_Demo/raw/master/images/g614799921.jpg" width="30%" />
 </div>
 
 ## Preview
 
 <div align=left>
-&emsp; <img src="https://github.com/dgynfi/HUD_Demo/raw/master/images/HudPreview.gif" width="30%" />
+&emsp; <img src="https://github.com/chenxing640/HUD_Demo/raw/master/images/HudPreview.gif" width="30%" />
 </div>
 
 ## HUD_Demo
@@ -102,4 +102,4 @@ spinner.lineWidth = 2.f;
 
 ## Code Sample
 
-- [Code Sample Portal](https://github.com/dgynfi/HUD_Demo/blob/master/HUD/Basic%20Files/RootViewController.m)
+- [Code Sample Portal](https://github.com/chenxing640/HUD_Demo/blob/master/HUD/Basic%20Files/RootViewController.m)
